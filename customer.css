@@ -8,6 +8,7 @@
   }
   body {
     font-family: "Montserrat";
+    background-image: url("2.jpg");
       background-color: #FF4C68;
   }
   
@@ -102,7 +103,7 @@
   
   /*For table of Users*/
   tbody {
-    background-color:#f7f6e7;
+    background-color:transparent;
   }
   
   thead th, tfoot th, tfoot td {
