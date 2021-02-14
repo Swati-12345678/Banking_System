@@ -5,7 +5,7 @@
   
   body {
     font-family: "Montserrat";
-    background-image: url("2.jpg");
+    background-image: url("3.jpg");
   }
   
   h1 {
@@ -80,8 +80,8 @@
     border-radius: 0.5rem;
     padding: 1rem 2rem;
     font-size: 132%;
-    background-color: #fff;
-    color: #FF4C68!important;
+    background-color: rgb(56, 12, 214);
+    color: #faf6f7!important;
     transition: 0.3s;
   }
   .user-trans-button{
@@ -89,6 +89,8 @@
     padding: 1rem 2rem;
     font-size: 132%;
     transition: 0.3s;
+    background-color: rgb(56, 12, 214);
+    color: #faf6f7!important;
   }
   
   /* Title Image */
@@ -114,7 +116,7 @@
   }
   
   .icon {
-    color: #EF8172;
+    color: #2dc5eb;
     margin-bottom: 1rem;
   }
   

@@ -8,8 +8,7 @@
   }
   body {
     font-family: "Montserrat";
-    background-image: url("2.jpg");
-      background-color: #FF4C68;
+    background-color:  #FF4C68;
   }
   
   .container-fluid {
@@ -52,8 +51,8 @@
     border-radius: 0.5rem;
     padding: 1rem 2rem;
     font-size: 132%;
-    background-color: #fff;
-    color: #FF4C68!important;
+    background-color: rgb(56, 12, 214);
+    color: #faf6f7!important;
     transition: 0.3s;
   }
   .user-trans-button{
@@ -61,6 +60,8 @@
     padding: 1rem 2rem;
     font-size: 132%;
     transition: 0.3s;
+    background-color: rgb(56, 12, 214);
+    color: #faf6f7!important;
   }
   
   /* Features Section */
@@ -103,14 +104,14 @@
   
   /*For table of Users*/
   tbody {
-    background-color:transparent;
+    background-color: blueviolet;
   }
   
   thead th, tfoot th, tfoot td {
     background: linear-gradient(to up, rgba(0,0,0,0.1), rgba(0,0,0,0.5));
   
   thead{
-    background-color: #ffe3de;
+    background-color: blue;
   }
   
   
