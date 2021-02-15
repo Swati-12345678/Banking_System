@@ -1,6 +1,7 @@
 #title {
-  background-color: #FF4C68;
+  background-color: rgb(57, 182, 240);
   color: #fff;
+  height: 100%;
 }
 
 body {
@@ -27,7 +28,7 @@ h3 {
 }
 
 p {
-  color: #8F8F8F;
+  color: #7cc776;
 }
 
 .container-fluid {
@@ -38,7 +39,7 @@ p {
 font-size: 1.3rem;
 font-weight: 900;
 line-height: 1;
-color: #fff;
+color: rgb(41, 31, 182);
 }
 
 /* Navigation Bar */
@@ -181,7 +182,7 @@ color: #fff;
 
 /*For table of Users*/
 table {
-  background-color #ffe3de;
+  background-color: #ffe3de;
 }
 thead{
   background-color: #ffe3de;
