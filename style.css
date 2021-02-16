@@ -1,7 +1,6 @@
 #title {
-  background-color: rgb(57, 182, 240);
-  color: #fff;
-  height: 100%;
+  background-color: rgb(59, 142, 219);
+  color: rgb(24, 226, 84);
 }
 
 body {
@@ -28,7 +27,7 @@ h3 {
 }
 
 p {
-  color: #7cc776;
+  color: #35cc2a;
 }
 
 .container-fluid {
@@ -71,8 +70,8 @@ color: rgb(41, 31, 182);
     border-radius: 0.5rem;
     padding: 1rem 2rem;
     font-size: 162%;
-    background-color: #fff;
-    color: #FF4C68!important;
+    background-color: rgb(188, 238, 192);
+    color: #f34fd8!important;
     transition: 0.3s;
 }
 
@@ -125,7 +124,7 @@ color: rgb(41, 31, 182);
 /* CTA Section */
 #cta {
   text-align: center;
-  background-color: #FF4C68;
+  background-color: #63c4f1;
   font-family: "Montserrat";
   padding: 7% 15%;
 }
@@ -140,7 +139,7 @@ color: rgb(41, 31, 182);
 /* Footer Section */
 #footer {
   text-align: center;
-  background-color: #ffffff;
+  background-color: #f7ee73;
 }
 
 .footer-font {
@@ -182,8 +181,8 @@ color: rgb(41, 31, 182);
 
 /*For table of Users*/
 table {
-  background-color: #ffe3de;
+  background-color: transparent;
 }
 thead{
-  background-color: #ffe3de;
+  background-color: transparent;
 }

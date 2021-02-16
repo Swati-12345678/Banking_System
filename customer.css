@@ -1,6 +1,6 @@
 #title {
-  background-color: #FF4C68;
-  color: #fff;
+  background-color: rgb(10, 88, 161);
+  color: rgb(24, 226, 84);
 	height: 100px;
 }
 .my-info{
@@ -8,7 +8,7 @@
 }
 body {
   font-family: "Montserrat";
-	background-color: #FF4C68;
+	background-color: rgb(107, 178, 245);
 }
 
 .container-fluid {
@@ -19,7 +19,7 @@ body {
 font-size: 1.3rem;
 font-weight: 900;
 line-height: 1;
-color: #fff;
+color: rgb(24, 226, 84);
 }
 
 /* Navigation Bar */
@@ -48,18 +48,23 @@ color: #fff;
 }
 
 .user-pay-button{
-  border-radius: 0.5rem;
+  border-radius: 0.8rem;
   padding: 1rem 2rem;
-  font-size: 132%;
-  background-color: #fff;
-  color: #FF4C68!important;
+  font-size: 140%;
+  font-weight: bold;
+  background-color: rgb(123, 231, 132);
+    color: #f542d7!important;
   transition: 0.3s;
 }
 .user-trans-button{
-  border-radius: 0.5rem;
+  border-radius: 0.8rem;
   padding: 1rem 2rem;
-  font-size: 132%;
+  font-size: 140%;
+  font-weight: bold;
+  background-color: rgb(123, 231, 132);
+    color: #f542d7!important;
   transition: 0.3s;
+
 }
 
 /* Features Section */
@@ -102,13 +107,13 @@ color: #fff;
 
 /*For table of Users*/
 tbody {
-  background-color:#f7f6e7;
+  background-color: transparent;
 }
 
 thead th, tfoot th, tfoot td {
   background: linear-gradient(to up, rgba(0,0,0,0.1), rgba(0,0,0,0.5));
 
-thead{
+thead {
   background-color: #ffe3de;
 }
 
