@@ -1,14 +1,14 @@
 #title {
-  background-color: rgb(10, 88, 161);
-  color: rgb(24, 226, 84);
-	height: 100px;
+  
 }
 .my-info{
 	height: 150px;
 }
 body {
   font-family: "Montserrat";
-	background-color: rgb(107, 178, 245);
+	background-image: url("images/8.jpg");
+ background-size: cover;
+ background-repeat: no-repeat;
 }
 
 .container-fluid {
@@ -49,6 +49,8 @@ color: rgb(24, 226, 84);
 
 .user-pay-button{
   border-radius: 0.8rem;
+  border-width: 3px;
+  border-color: black;
   padding: 1rem 2rem;
   font-size: 140%;
   font-weight: bold;
@@ -58,6 +60,8 @@ color: rgb(24, 226, 84);
 }
 .user-trans-button{
   border-radius: 0.8rem;
+  border-width: 3px;
+  border-color: black;
   padding: 1rem 2rem;
   font-size: 140%;
   font-weight: bold;
@@ -108,13 +112,18 @@ color: rgb(24, 226, 84);
 /*For table of Users*/
 tbody {
   background-color: transparent;
+  border: black;
+  border-width: 3px;
+  border-radius: 5%;
 }
 
 thead th, tfoot th, tfoot td {
-  background: linear-gradient(to up, rgba(0,0,0,0.1), rgba(0,0,0,0.5));
+  background: linear-gradient(to up, rgba(0,0,0,0.1), rgba(0,0,0,0.5));}
 
-thead {
-  background-color: #ffe3de;
+table {
+  border: black;
+  border-width: 3px;
+  border-radius: 5%;
 }
 
 

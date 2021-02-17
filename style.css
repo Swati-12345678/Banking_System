@@ -1,10 +1,13 @@
 #title {
-  background-color: rgb(59, 142, 219);
+ 
   color: rgb(24, 226, 84);
 }
 
 body {
   font-family: "Montserrat";
+  background-image: url("images/3.jpg");
+ background-size: cover;
+ background-repeat: no-repeat;
 }
 
 h1 {
@@ -103,7 +106,7 @@ color: rgb(41, 31, 182);
   padding: 7% 15%;
   font-family: "Montserrat-bold";
   font-size: 1.5rem;
-  background-color: #fff;
+  background-color:transparent;
   position: relative;
 }
 
@@ -139,7 +142,7 @@ color: rgb(41, 31, 182);
 /* Footer Section */
 #footer {
   text-align: center;
-  background-color: #f7ee73;
+  background-color: transparent;
 }
 
 .footer-font {
@@ -182,6 +185,10 @@ color: rgb(41, 31, 182);
 /*For table of Users*/
 table {
   background-color: transparent;
+  border: black;
+  border-width: 3px;
+  border-radius: 5%;
+
 }
 thead{
   background-color: transparent;
