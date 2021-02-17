@@ -52,8 +52,8 @@ color: rgb(24, 226, 84);
   padding: 1rem 2rem;
   font-size: 140%;
   font-weight: bold;
-  background-color: rgb(123, 231, 132);
-    color: #f542d7!important;
+  background-color: rgb(188, 238, 192);
+    color: #f34fd8!important;
   transition: 0.3s;
 }
 .user-trans-button{
@@ -61,8 +61,8 @@ color: rgb(24, 226, 84);
   padding: 1rem 2rem;
   font-size: 140%;
   font-weight: bold;
-  background-color: rgb(123, 231, 132);
-    color: #f542d7!important;
+  background-color: rgb(188, 238, 192);
+  color: #f34fd8!important;
   transition: 0.3s;
 
 }
