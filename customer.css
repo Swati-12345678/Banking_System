@@ -1,18 +1,19 @@
 #title {
-  
+  color: #080cdf;
 }
 .my-info{
 	height: 150px;
 }
 body {
   font-family: "Montserrat";
-	background-image: url("images/8.jpg");
+	background-image: url("images/9.jpg");
  background-size: cover;
  background-repeat: no-repeat;
 }
 
 .container-fluid {
   padding: 1% 15% 0%;
+  color: #080cdf;
 }
 
 .name{
@@ -25,12 +26,14 @@ color: rgb(24, 226, 84);
 /* Navigation Bar */
 .navbar {
   padding: 0 0 4.5rem;
+  color: #080cdf;
 }
 
 .navbar-brand {
   font-family: "Ubuntu";
   font-size: 2.5rem;
   font-weight: bold;
+  color: #080cdf;
 }
 
 .nav-item {
@@ -49,24 +52,24 @@ color: rgb(24, 226, 84);
 
 .user-pay-button{
   border-radius: 0.8rem;
-  border-width: 3px;
+  border-width: 2px;
   border-color: black;
   padding: 1rem 2rem;
   font-size: 140%;
   font-weight: bold;
-  background-color: rgb(188, 238, 192);
-    color: #f34fd8!important;
+  background-color: rgb(76, 71, 71);
+    color: #f9f9fd!important;
   transition: 0.3s;
 }
 .user-trans-button{
   border-radius: 0.8rem;
-  border-width: 3px;
+  border-width: 2px;
   border-color: black;
   padding: 1rem 2rem;
   font-size: 140%;
   font-weight: bold;
-  background-color: rgb(188, 238, 192);
-  color: #f34fd8!important;
+  background-color: rgb(76, 71, 71);
+    color: #f9f9fd!important;
   transition: 0.3s;
 
 }
@@ -76,7 +79,7 @@ color: rgb(24, 226, 84);
   padding: 7% 15%;
   font-family: "Montserrat-bold";
   font-size: 1.5rem;
-  background-color: #fff;
+  background-color: transparent;
   position: relative;
 }
 
@@ -86,25 +89,25 @@ color: rgb(24, 226, 84);
 }
 
 .icon {
-  color: #EF8172;
+  color: transparent;
   margin-bottom: 1rem;
 }
 
 .icon:hover {
-  color: #FF4C68;
+  color: transparent;
 }
 
 /* CTA Section */
 #cta {
   text-align: center;
-  background-color: #FF4C68;
+  background-color: transparent;
   font-family: "Montserrat";
   padding: 7% 15%;
 }
 
 .cta-heading {
   font-size: 3.5rem;
-  color: #fff;
+  color: rgb(77, 18, 238);
   font-weight: 900;
   line-height: 1.5;
 }
@@ -113,6 +116,7 @@ color: rgb(24, 226, 84);
 tbody {
   background-color: transparent;
   border: black;
+  font-weight: 500;
   border-width: 3px;
   border-radius: 5%;
 }
